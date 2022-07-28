@@ -2,6 +2,10 @@
     filter: brightness(60%);
 }
 
+.register-btn button:focus {
+    color: #0D6EFD;
+}
+
 @media screen and (max-width:768px) {
     .carousel-item-img img {
         height: 300px;

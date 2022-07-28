@@ -15,6 +15,10 @@
     background: #F4FAFD;
 }
 
+.company-section {
+    margin: 100px 0;
+}
+
 @media screen and (max-width:768px) {
     .carousel-item-img img {
         height: 300px;

@@ -6,6 +6,15 @@
     color: #0D6EFD;
 }
 
+.register-btn button:hover {
+    color: #0D6EFD;
+}
+
+.blog-section {
+    margin: 100px 0;
+    background: #F4FAFD;
+}
+
 @media screen and (max-width:768px) {
     .carousel-item-img img {
         height: 300px;
